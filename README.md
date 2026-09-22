@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0136-single-number](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
