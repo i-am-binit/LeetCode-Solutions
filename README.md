@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0118-pascals-triangle](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0228-summary-ranges) |
@@ -84,4 +85,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
