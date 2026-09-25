@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
