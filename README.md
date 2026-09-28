@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0059-spiral-matrix-ii](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
@@ -108,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
