@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/i-am-binit/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 ## Sliding Window
 |  |
 | ------- |
